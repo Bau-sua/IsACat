@@ -1,0 +1,17 @@
+# Core API
+fastapi[standard]==0.113.0
+pydantic==2.8.0
+uvicorn[standard]==0.34.3
+
+# Deep Learning
+torch==2.8.0
+torchvision==0.23.0
+huggingface-hub==1.0.1
+
+# Utilidades
+pillow==12.0.0
+numpy==2.3
+
+
+#Optional: logging, monitorización y formato
+#python-multipart==0.0.9        # Para manejar archivos subidos
